@@ -23,10 +23,6 @@ This MVP demonstrates:
 
 <br>
 
-<div align="center">
-<i>(Add screenshots here later for a polished preview)</i>
-</div>
-
 <br>
 
 ---
@@ -67,7 +63,7 @@ Minimal, modern interface designed for real founders.
 
 <div align="center">
 
-### <a href="https://github.com/YOUR-USERNAME/markhor-build/releases" style="font-size:20px;">⬇ Click Here to Download `markhor-build.apk`</a>
+### <a href="https://github.com/MuhammadUmar-Hashmi/Markhor-Build" style="font-size:20px;">⬇ Click Here to Download `markhor-build.apk`</a>
 
 <sub>(APK is located in the Releases section)</sub>
 
